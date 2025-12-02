@@ -1,6 +1,8 @@
 # trtswitch
 Rank Preserving Structural Failure Time Model (RPSFTM) for Treatment Switching Use rpsftm (trtswitch) With (In) R Software
 
+https://www.youtube.com/watch?v=AMq6VUq0q0w
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
